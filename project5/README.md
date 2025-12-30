@@ -18,3 +18,5 @@ x86 assembly program that reads comma-delimited temperature data from a file, pa
 
 \- Array traversal and reverse-order output formatting
 
+### Sample Input
+The `data/Temps090124.txt` file contains example comma-delimited temperature values used as input for the program.
