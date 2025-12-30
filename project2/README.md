@@ -1,4 +1,4 @@
-\## Project - Temperature Statistics Tool
+\## Project 2 - Temperature Statistics Tool
 
 
 
