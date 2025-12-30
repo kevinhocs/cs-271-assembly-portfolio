@@ -1,4 +1,4 @@
-\## Project - Chaotic Temperature Statistics
+\## Project 3 - Chaotic Temperature Statistics
 
 
 
