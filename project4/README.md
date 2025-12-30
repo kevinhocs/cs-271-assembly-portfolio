@@ -1,4 +1,4 @@
-\## Project - Pascal’s Triangle Generator
+\## Project 4 - Pascal’s Triangle Generator
 
 
 
